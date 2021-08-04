@@ -1,4 +1,4 @@
-# C-Snake
+# Cpp-Snake
 A game of snake I codded in C++ for fun
 
 Download the Snake.exe file for a qwerty (wasd keys) keyboard and SnakeFR.exe for an azerty (zqsd keys) keyboard.
